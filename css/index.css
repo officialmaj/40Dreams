@@ -5,14 +5,14 @@ html {
 
 #forty-dreams-logo {
 	position: relative;
-	left: -10px;
+	left: 0px;
 	top: -10px;
 	height: 85px;
 	width: 1800px;
 }
 
 h1 {
-	font-size: 23px;
+	font-size: 25px;
 	font-family: Bahnschrift;
 	color: #FFFFFF;
 	position: relative;
@@ -21,15 +21,62 @@ h1 {
 }
 
 h2 {
-	font-size: 16px;
+	font-size: 18px;
 	font-family: Bahnschrift;
 	color: #72C6E5;
 	position: relative;
 	left: 145px;
-	bottom: 110px;
+	bottom: 115px;
 }
 
 #forty-dreams-headers {
 	position: relative;
 	right: 20px;
+	bottom: 2px;
+}
+
+.header-text {
+
+	color: #FFFFFF;
+	position: relative;
+	right: 50px;
+	float: right;
+	font-family: Bahnschrift;
+
+}
+
+#home-header {
+
+	position: relative;
+	right: 500px;
+	top: -185px;
+	font-size: 18px;
+}
+
+#about-header {
+
+	position: relative;
+	right: 400px;
+	top: -226px;
+}
+
+#menu-header {
+
+	position: relative;
+	right: 300px;
+	top: -267px;
+}
+
+#blog-header {
+
+	position: relative;
+	right: 200px;
+	top: -308px;
+}
+
+#contact-header {
+
+	position: relative;
+	right: 100px;
+	top: -349px;
 }
