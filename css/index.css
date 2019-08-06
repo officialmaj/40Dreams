@@ -4,12 +4,32 @@ html {
 }
 
 #forty-dreams-logo {
-
 	position: relative;
 	left: -10px;
 	top: -10px;
-	height: 95px;
+	height: 85px;
 	width: 1800px;
-
 }
 
+h1 {
+	font-size: 23px;
+	font-family: Bahnschrift;
+	color: #FFFFFF;
+	position: relative;
+	left: 125px;
+	bottom: 100px;
+}
+
+h2 {
+	font-size: 16px;
+	font-family: Bahnschrift;
+	color: #72C6E5;
+	position: relative;
+	left: 145px;
+	bottom: 110px;
+}
+
+#forty-dreams-headers {
+	position: relative;
+	right: 20px;
+}
