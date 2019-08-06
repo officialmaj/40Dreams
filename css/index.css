@@ -39,6 +39,7 @@ h2 {
 
 	color: #FFFFFF;
 	position: relative;
+	top: 5px;
 	right: 50px;
 	float: right;
 	font-family: Bahnschrift;
@@ -50,33 +51,52 @@ h2 {
 	position: relative;
 	right: 500px;
 	top: -185px;
-	font-size: 18px;
+	font-size: 15px;
 }
 
 #about-header {
 
 	position: relative;
 	right: 400px;
-	top: -226px;
+	top: -219px;
+	font-size: 15px;
 }
 
 #menu-header {
 
 	position: relative;
 	right: 300px;
-	top: -267px;
+	top: -253px;
+	font-size: 15px;
 }
 
 #blog-header {
 
 	position: relative;
 	right: 200px;
-	top: -308px;
+	top: -287px;
+	font-size: 15px;
 }
 
 #contact-header {
 
 	position: relative;
 	right: 100px;
-	top: -349px;
+	top: -321px;
+	font-size: 15px;
+}
+
+#forty-dream-body-background-image {
+
+	position: absolute;
+	top: 74px;
+	width: 1300px;
+	height: 430px;
+}
+
+#footer-text {
+
+	color: #525050;
+	position: relative;
+	top: 345px;
 }
