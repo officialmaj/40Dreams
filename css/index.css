@@ -98,10 +98,14 @@ h2 {
 
 	color: #525050;
 	position: relative;
-	top: 345px;
+	top: 350px;
 }
 
 #amerigroup-icon {
 
-	size: 50px;
+	position: absolute;
+	width: 200px;
+	height: 105px;
+	bottom: -388px;
+	left: 650px;
 }
