@@ -1,6 +1,6 @@
 html {
 
-	overflow: hidden;
+	overflow-x: hidden;
 }
 
 #forty-dreams-logo {
@@ -99,4 +99,9 @@ h2 {
 	color: #525050;
 	position: relative;
 	top: 345px;
+}
+
+#amerigroup-icon {
+
+	size: 50px;
 }
