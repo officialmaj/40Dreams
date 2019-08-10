@@ -154,3 +154,18 @@ h2 {
 	font-size: 13px;
 	left: -35px;
 }
+
+#gourmet-meals-dty {
+
+	white-space: nowrap;
+
+}
+
+#gourmet-meals {
+
+	position: absolute;
+	font-size: 45px;
+	color: #1E233F;
+	top: 50px;
+	left: 175px;
+}
