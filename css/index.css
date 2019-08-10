@@ -6,13 +6,13 @@ html {
 #forty-dreams-logo {
 	position: relative;
 	left: 0px;
-	top: -10px;
-	height: 85px;
+	top: -12px;
+	height: 78px;
 	width: 1800px;
 }
 
 h1 {
-	font-size: 25px;
+	font-size: 24px;
 	font-family: Bahnschrift;
 	color: #FFFFFF;
 	position: relative;
@@ -21,18 +21,18 @@ h1 {
 }
 
 h2 {
-	font-size: 18px;
+	font-size: 20px;
 	font-family: Bahnschrift;
 	color: #72C6E5;
 	position: relative;
-	left: 145px;
+	left: 140px;
 	bottom: 115px;
 }
 
 #forty-dreams-headers {
 	position: relative;
 	right: 20px;
-	bottom: 2px;
+	bottom: -3px;
 }
 
 .header-text {
@@ -40,7 +40,7 @@ h2 {
 	color: #FFFFFF;
 	position: relative;
 	top: 5px;
-	right: 50px;
+	right: 100px;
 	float: right;
 	font-family: Bahnschrift;
 
@@ -89,23 +89,68 @@ h2 {
 #forty-dream-body-background-image {
 
 	position: absolute;
-	top: 74px;
+	top: 65px;
 	width: 1300px;
-	height: 430px;
+	height: 535px;
 }
 
 #footer-text {
 
+	font-family: Bahnschrift;
+	font-size: 22px;
+	font-weight: bolder;
 	color: #525050;
 	position: relative;
-	top: 350px;
+	top: 360px;
+	left: 50px;
 }
 
 #amerigroup-icon {
 
 	position: absolute;
-	width: 200px;
-	height: 105px;
-	bottom: -388px;
+	width: 140px;
+	height: 65px;
+	bottom: -382px;
+	left: 400px;
+}
+
+#united-healthcare-icon  {
+
+	position: absolute;
+	width: 151px;
+	height: 71px;
+	bottom: -382px;
+	left: 600px;
+}
+
+#order-button {
+
+	position: absolute;
+	font-family: Bahnschrift;
 	left: 650px;
+	top:300px;
+	font-size: 15px;
+	white-space: nowrap;
+
+}
+
+#order-button-text {
+
+	color: red;
+}
+
+#more-info-button {
+
+	height: 30px;
+	position: absolute;
+	top: 150px;
+	right: -50px;
+}
+
+#more-info-button-text {
+
+	position: absolute;
+	top: 149px;
+	font-size: 13px;
+	left: -35px;
 }
