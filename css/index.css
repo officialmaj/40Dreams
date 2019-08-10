@@ -35,6 +35,10 @@ h2 {
 	bottom: -3px;
 }
 
+.header {
+	position: fixed;
+}
+
 .header-text {
 
 	color: #FFFFFF;
@@ -141,7 +145,7 @@ h2 {
 
 #more-info-button {
 
-	height: 30px;
+	height: 35px;
 	position: absolute;
 	top: 150px;
 	right: -50px;
@@ -150,9 +154,10 @@ h2 {
 #more-info-button-text {
 
 	position: absolute;
-	top: 149px;
+	font-family: Bahnschrift;
+	top: 152px;
 	font-size: 13px;
-	left: -35px;
+	left: -43px;
 }
 
 #gourmet-meals-dty {
@@ -164,8 +169,31 @@ h2 {
 #gourmet-meals {
 
 	position: absolute;
-	font-size: 45px;
+	font-size: 50px;
 	color: #1E233F;
 	top: 50px;
 	left: 175px;
+}
+
+#delivered-to-you {
+
+	position: absolute;
+	font-size: 46px;
+	text-shadow: 1px 1px #000000;
+	top: 105px;
+	left: 210px;
+
+}
+
+
+
+#gourmet-entree {
+
+	position: absolute;
+	top: 2000px;
+}
+
+.container {
+	position:fixed;
+
 }
