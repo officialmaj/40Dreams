@@ -161,9 +161,9 @@ html {
 
 #more-info-button {
 
-	height: 35px;
+	height: 40px;
 	position: absolute;
-	top: 160px;
+	top: 165px;
 	right: -38px;
 }
 
@@ -171,9 +171,9 @@ html {
 
 	position: absolute;
 	font-family: Bahnschrift;
-	top: 160px;
-	font-size: 14px;
-	left: -60px;
+	top: 165px;
+	font-size: 16px;
+	left: -72px;
 	color: #FFFFFF;
 	bottom: 100px;
 
@@ -226,7 +226,7 @@ html {
 	position: absolute;
 	font-family: Bahnschrift;
 	top: 625px;
-	left: 533px;
+	left: 525px;
 }
 
 #our-mission-text {
@@ -248,4 +248,5 @@ html {
 	top: 850px;
 	left: 350px;
 }
+
 
