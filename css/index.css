@@ -43,7 +43,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 650px;
+	right: 625px;
 	top: 10px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -66,7 +66,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 450px;
+	right: 475px;
 	top: 10px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -78,7 +78,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 350px;
+	right: 400px;
 	top: 10px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -91,7 +91,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 250px;
+	right: 300px;
 	top: 10px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -150,26 +150,21 @@ html {
 
 }
 
-#order-button-text {
-
-	color: red;
-}
-
 #more-info-button {
 
 	height: 35px;
 	position: absolute;
-	top: 150px;
-	right: -40px;
+	top: 160px;
+	right: -38px;
 }
 
 #more-info-button-text {
 
 	position: absolute;
 	font-family: Bahnschrift;
-	top: 152px;
-	font-size: 13px;
-	left: -54px;
+	top: 160px;
+	font-size: 14px;
+	left: -60px;
 	color: #FFFFFF;
 	bottom: 100px;
 
@@ -215,10 +210,32 @@ html {
 	top: 2000px;
 }
 
-#our-mission {
+#our-mission-header {
 
 	position: absolute;
 	font-family: Bahnschrift;
 	top: 625px;
-	left: 540px;
+	left: 525px;
 }
+
+#our-mission-text {
+	position: absolute;
+	font-family: Bahnschrift;
+	color: #F7980E;
+	text-align: center;
+	font-stretch: extra-expanded;
+	font-size: 35px;
+	top: 675px;
+	left: 390px;
+}
+
+#twitter-logo {
+
+
+	position: fixed;
+	height: 25px;
+	right: 175px;
+	top: 22px;
+	z-index: 1100
+}
+
