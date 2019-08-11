@@ -4,12 +4,39 @@ html {
 }
 
 #forty-dreams-logo {
-	position: relative;
+	position: fixed;
+	width: 1600px;
+	height: 75px;
+	top: 0px;
 	left: 0px;
-	top: -12px;
-	height: 78px;
-	width: 1800px;
+	z-index: 1000;
 }
+
+#forty-dreams-text {
+
+	position: fixed;
+	font-size: 25px;
+	top: -8px;
+	font-family: Bahnschrift;
+	color: #FFFFFF;
+	z-index: 1001;
+
+
+}
+
+#catering-text {
+
+	position: fixed;
+	font-size: 20px;
+	top: 25px;
+	left: 145px;
+	font-family: Bahnschrift;
+	color: #72C6E5;
+	z-index: 1002;
+
+
+}
+
 
 h1 {
 	font-size: 24px;
@@ -20,82 +47,76 @@ h1 {
 	bottom: 100px;
 }
 
-h2 {
-	font-size: 20px;
-	font-family: Bahnschrift;
-	color: #72C6E5;
-	position: relative;
-	left: 140px;
-	bottom: 115px;
-}
-
-#forty-dreams-headers {
-	position: relative;
-	right: 20px;
-	bottom: -3px;
-}
-
-.header {
-	position: fixed;
-}
-
-.header-text {
-
-	color: #FFFFFF;
-	position: relative;
-	top: 5px;
-	right: 100px;
-	float: right;
-	font-family: Bahnschrift;
-
-}
 
 #home-header {
 
-	position: relative;
+	color: #FFFFFF;
+	position: fixed;
 	right: 500px;
-	top: -185px;
-	font-size: 15px;
+	top: 10px;
+	font-size: 16px;
+	font-family: Bahnschrift;
+	z-index: 1100
 }
+
 
 #about-header {
 
-	position: relative;
+	color: #FFFFFF;
+	position: fixed;
 	right: 400px;
-	top: -219px;
-	font-size: 15px;
+	top: 10px;
+	font-size: 16px;
+	font-family: Bahnschrift;
+	z-index: 1100
 }
 
 #menu-header {
 
-	position: relative;
+	color: #FFFFFF;
+	position: fixed;
 	right: 300px;
-	top: -253px;
-	font-size: 15px;
+	top: 10px;
+	font-size: 16px;
+	font-family: Bahnschrift;
+	z-index: 1100
 }
+
 
 #blog-header {
 
-	position: relative;
+	color: #FFFFFF;
+	position: fixed;
 	right: 200px;
-	top: -287px;
-	font-size: 15px;
+	top: 10px;
+	font-size: 16px;
+	font-family: Bahnschrift;
+	z-index: 1100
 }
+
+
 
 #contact-header {
 
-	position: relative;
+	color: #FFFFFF;
+	position: fixed;
 	right: 100px;
-	top: -321px;
-	font-size: 15px;
+	top: 10px;
+	font-size: 16px;
+	font-family: Bahnschrift;
+	z-index: 1100
 }
+
 
 #forty-dream-body-background-image {
 
 	position: absolute;
-	top: 65px;
+	top: 75px;
 	width: 1300px;
 	height: 535px;
+	right: -35px;
+	
+}
 }
 
 #footer-text {
@@ -148,7 +169,7 @@ h2 {
 	height: 35px;
 	position: absolute;
 	top: 150px;
-	right: -50px;
+	right: -40px;
 }
 
 #more-info-button-text {
@@ -157,22 +178,23 @@ h2 {
 	font-family: Bahnschrift;
 	top: 152px;
 	font-size: 13px;
-	left: -43px;
-}
-
-#gourmet-meals-dty {
-
-	white-space: nowrap;
+	left: -53px;
+	color: #FFFFFF;
+	bottom: 100px;
 
 }
+
 
 #gourmet-meals {
 
 	position: absolute;
 	font-size: 50px;
 	color: #1E233F;
-	top: 50px;
+	top: 60px;
 	left: 175px;
+	font-family: Bahnschrift;
+	bottom: 100px;
+
 }
 
 #delivered-to-you {
@@ -180,9 +202,17 @@ h2 {
 	position: absolute;
 	font-size: 46px;
 	text-shadow: 1px 1px #000000;
-	top: 105px;
+	font-family: Bahnschrift;
+	color: #FFFFFF;
+	top: 120px;
 	left: 210px;
+	bottom: 100px;
 
+
+}
+
+#sign-in-button {
+	position: absolute;
 }
 
 
@@ -194,6 +224,6 @@ h2 {
 }
 
 .container {
-	position:fixed;
+	position:fixed;
 
 }
