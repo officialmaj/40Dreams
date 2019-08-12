@@ -43,7 +43,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 625px;
+	right: 680px;
 	top: 13px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -55,7 +55,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 550px;
+	right: 605px;
 	top: 13px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -66,7 +66,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 475px;
+	right: 530px;
 	top: 13px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -78,7 +78,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 400px;
+	right: 455px;
 	top: 13px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -91,7 +91,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 300px;
+	right: 355px;
 	top: 13px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -102,9 +102,27 @@ html {
 
 	position: fixed;
 	height: 25px;
-	right: 225px;
+	right: 285px;
 	top: 25px;
 	z-index: 1100
+}
+
+#sign-in {
+	z-index: 1400;
+	border-radius: 12px;
+	border: 0px solid;
+	background-color: #1E233F;
+	color: white;
+	font-family: Bahnschrift;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px 25px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	/*transition: transform 80ms ease-in;*/
+	position: fixed;
+	right: 150px;
+	top: 20px;
 }
 
 
@@ -205,12 +223,6 @@ html {
 
 
 }
-
-#sign-in-button {
-
-	position: absolute;
-}
-
 
 
 #gourmet-entree {
