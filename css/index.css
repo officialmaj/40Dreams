@@ -125,6 +125,24 @@ html {
 	top: 20px;
 }
 
+#sign-up {
+	z-index: 1400;
+	border-radius: 12px;
+	border: 0px solid;
+	background-color: #1E233F;
+	color: white;
+	font-family: Bahnschrift;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px 25px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	/*transition: transform 80ms ease-in;*/
+	position: fixed;
+	right: 25px;
+	top: 20px;
+}
+
 
 #forty-dream-body-background-image {
 
