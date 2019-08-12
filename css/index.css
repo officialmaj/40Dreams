@@ -251,14 +251,14 @@ html {
 
 .arrow{
     position: absolute;
-    top: 1055px;
-    left: 50%;
+    top: 1060px;
+    left: 50.3%;
     transform: translate(-50%,-50%);
 }
 .arrow span{
     display: block;
-    width: 27px;
-    height: 27px;
+    width: 25px;
+    height: 25px;
     border-bottom: 5px solid #F7980E;
     border-right: 5px solid #F7980E;
     transform: rotate(45deg);
@@ -283,4 +283,6 @@ html {
         opacity: 0;
         transform: rotate(45deg) translate(20px,20px);
     }
+
+
 }
