@@ -173,7 +173,7 @@ html {
 	font-family: Bahnschrift;
 	top: 165px;
 	font-size: 16px;
-	left: -72px;
+	left: -74px;
 	color: #FFFFFF;
 	bottom: 100px;
 
@@ -216,9 +216,9 @@ html {
 #gourmet-entree {
 
 	position: absolute;
-	top: 879px;
+	top: 895px;
 	left: -8px;
-	height: 275px;
+	height: 250px;
 }
 
 #our-mission-header {
@@ -257,8 +257,8 @@ html {
 }
 .arrow span{
     display: block;
-    width: 30px;
-    height: 30px;
+    width: 27px;
+    height: 27px;
     border-bottom: 5px solid #F7980E;
     border-right: 5px solid #F7980E;
     transform: rotate(45deg);
