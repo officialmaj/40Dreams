@@ -43,8 +43,8 @@ html {
  	z-index: 999;
  	position: absolute;
  	top: 300px;
- 	right: 10px;
- 	height: 12px;
+ 	right: 15px;
+ 	height: 13px;
  	
 
  }
@@ -53,9 +53,9 @@ html {
 
   	z-index: 999;
  	position: absolute;
- 	top: 325px;
- 	right: 2px;
- 	height: 27px;
+ 	top: 330px;
+ 	right: 15px;
+ 	height: 13px;
 
  	
  }
@@ -65,8 +65,72 @@ html {
  	z-index: 999;
  	position: absolute;
  	top: 360px;
- 	right: 8px;
- 	height: 12.5px;
+ 	right: 14.5px;
+ 	height: 13px;
+ 	
+ }
+
+  #side-nav-bar-p2-1 {
+
+ 	z-index: 999;
+ 	position: absolute;
+ 	top: 865px;
+ 	right: 15px;
+ 	height: 13px;
+ 	
+
+ }
+
+  #side-nav-bar-p2-2 {
+
+  	z-index: 999;
+ 	position: absolute;
+ 	top: 895px;
+ 	right: 15px;
+ 	height: 13px;
+
+ 	
+ }
+
+  #side-nav-bar-p2-3 {
+
+ 	z-index: 999;
+ 	position: absolute;
+ 	top: 925px;
+ 	right: 14.5px;
+ 	height: 13px;
+ 	
+ }
+
+   #side-nav-bar-p3-1 {
+
+ 	z-index: 999;
+ 	position: absolute;
+ 	top: 1430px;
+ 	right: 15px;
+ 	height: 13px;
+ 	
+
+ }
+
+  #side-nav-bar-p3-2 {
+
+  	z-index: 999;
+ 	position: absolute;
+ 	top: 1460px;
+ 	right: 15px;
+ 	height: 13px;
+
+ 	
+ }
+
+  #side-nav-bar-p3-3 {
+
+ 	z-index: 999;
+ 	position: absolute;
+ 	top: 1490px;
+ 	right: 14.5px;
+ 	height: 13px;
  	
  }
 
@@ -74,7 +138,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 625px;
+	right: 925px;
 	top: 13px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -192,8 +256,8 @@ html {
 	font-weight: bolder;
 	color: #525050;
 	position: relative;
-	top: 360px;
-	left: 50px;
+	top: 1566px;
+	left: 250px;
 }
 
 #amerigroup-icon {
@@ -201,8 +265,8 @@ html {
 	position: absolute;
 	width: 140px;
 	height: 65px;
-	bottom: -382px;
-	left: 400px;
+	top: 1620px;
+	left: 600px;
 }
 
 #united-healthcare-icon  {
@@ -210,8 +274,8 @@ html {
 	position: absolute;
 	width: 151px;
 	height: 71px;
-	bottom: -382px;
-	left: 600px;
+	top: 1614px;
+	left: 800px;
 }
 
 #order-button {
@@ -285,7 +349,7 @@ html {
 
 	position: absolute;
 	font-family: Bahnschrift;
-	top: 625px;
+	top: 725px;
 	left: 525px;
 }
 
@@ -295,7 +359,7 @@ html {
 	color: #F7980E;
 	text-align: center;
 	font-size: 35px;
-	top: 675px;
+	top: 775px;
 	left: 390px;
 }
 
@@ -305,14 +369,14 @@ html {
 	font-stretch: extra-expanded;
 	text-align: center;
 	font-size: 25px;
-	top: 850px;
+	top: 950px;
 	left: 350px;
 }
 
 .arrow{
     position: absolute;
-    top: 1060px;
-    left: 50.3%;
+    top: 1160px;
+    left: 50.5s%;
     transform: translate(-50%,-50%);
 }
 .arrow span{
