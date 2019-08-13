@@ -464,6 +464,17 @@ z-index: 4000;
  	border-color: black;
  }
 
+#menu-textbox1 {
+
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	color: red;
+	border: 2px solid black;
+	position: relative;
+	top: 33%;
+	left: 33%;
+}
 
 
 
