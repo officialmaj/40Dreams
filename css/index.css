@@ -138,7 +138,7 @@ html {
 
 	color: #FFFFFF;
 	position: fixed;
-	right: 925px;
+	right: 625px;
 	top: 13px;
 	font-size: 16px;
 	font-family: Bahnschrift;
@@ -376,7 +376,7 @@ html {
 .arrow{
     position: absolute;
     top: 1160px;
-    left: 50.5s%;
+    left: 50.5%;
     transform: translate(-50%,-50%);
 }
 .arrow span{
