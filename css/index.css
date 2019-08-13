@@ -145,6 +145,18 @@ html {
 	z-index: 1100
 }
 
+#home-underline {
+
+	border-size: 30px;
+	z-index: 4000;
+	position: relative;
+	right: 625px;
+	top: 13px;
+	width: 10px;
+	background-color: black;
+
+}
+
 
 
 #about-header {
@@ -203,6 +215,34 @@ html {
 	z-index: 1100
 }
 
+.container{
+ position: absolute;
+}
+li{
+ display: inline-block;
+}
+li a{
+ display: inline-block;
+ text-decoration: none;
+ font-weight: lighter;
+ font-size: 20px;
+ padding: 0 20px;
+}
+.cool-link::after{
+z-index: 4000;
+ content: "";
+ display: block;
+ width: 0;
+ height: 2px;
+ background: #fff;
+ transition: width .3s;
+}
+.cool-link:hover::after{
+ z-index: 4000;
+ width: 100%;
+ transition: width .3s;
+}
+
 #sign-in {
 	z-index: 1400;
 	border-radius: 12px;
@@ -243,7 +283,7 @@ html {
 	position: absolute;
 	top: 75px;
 	width: 1300px;
-	height: 535px;
+	height: 542px;
 	right: -30px;
 	
 }
@@ -256,7 +296,7 @@ html {
 	font-weight: bolder;
 	color: #525050;
 	position: relative;
-	top: 1566px;
+	top: 590px;
 	left: 250px;
 }
 
@@ -265,7 +305,7 @@ html {
 	position: absolute;
 	width: 140px;
 	height: 65px;
-	top: 1620px;
+	top: 665px;
 	left: 600px;
 }
 
@@ -274,7 +314,7 @@ html {
 	position: absolute;
 	width: 151px;
 	height: 71px;
-	top: 1614px;
+	top: 660px;
 	left: 800px;
 }
 
@@ -349,7 +389,7 @@ html {
 
 	position: absolute;
 	font-family: Bahnschrift;
-	top: 725px;
+	top: 750px;
 	left: 525px;
 }
 
@@ -359,7 +399,7 @@ html {
 	color: #F7980E;
 	text-align: center;
 	font-size: 35px;
-	top: 775px;
+	top: 820px;
 	left: 390px;
 }
 
@@ -369,13 +409,13 @@ html {
 	font-stretch: extra-expanded;
 	text-align: center;
 	font-size: 25px;
-	top: 950px;
+	top: 1000px;
 	left: 350px;
 }
 
 .arrow{
     position: absolute;
-    top: 1160px;
+    top: 1200px;
     left: 50.5%;
     transform: translate(-50%,-50%);
 }
@@ -418,14 +458,12 @@ html {
 
 }
 
-  #side-nav-bar2 {
-
- 	
+ #header {
+ 	z-index: 5000
+ 	border: 5px;
+ 	border-color: black;
  }
 
-  #side-nav-bar3 {
 
- 	
- }
 
-}
+
