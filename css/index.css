@@ -38,6 +38,38 @@ html {
 
 }
 
+ #side-nav-bar1 {
+
+ 	z-index: 999;
+ 	position: absolute;
+ 	top: 300px;
+ 	right: 10px;
+ 	height: 12px;
+ 	
+
+ }
+
+  #side-nav-bar2 {
+
+  	z-index: 999;
+ 	position: absolute;
+ 	top: 325px;
+ 	right: 2px;
+ 	height: 27px;
+
+ 	
+ }
+
+  #side-nav-bar3 {
+
+ 	z-index: 999;
+ 	position: absolute;
+ 	top: 360px;
+ 	right: 8px;
+ 	height: 12.5px;
+ 	
+ }
+
 #home-header {
 
 	color: #FFFFFF;
@@ -148,7 +180,7 @@ html {
 	top: 75px;
 	width: 1300px;
 	height: 535px;
-	right: -35px;
+	right: -30px;
 	
 }
 
@@ -311,5 +343,25 @@ html {
         opacity: 0;
         transform: rotate(45deg) translate(20px,20px);
     }
+
+#side-nav-bar1 {
+
+ 	z-index: 3000;
+ 	position: absolute;
+ 	right: 10px;
+ 	height: 100px;
+ 	background-color: purple;
+
+}
+
+  #side-nav-bar2 {
+
+ 	
+ }
+
+  #side-nav-bar3 {
+
+ 	
+ }
 
 }
