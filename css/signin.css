@@ -1,0 +1,187 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+html {
+
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+#forty-dreams-logo {
+	position: fixed;
+	width: 1600px;
+	height: 75px;
+	top: 0px;
+	left: 0px;
+	z-index: 1000;
+}
+
+#forty-dreams-text {
+
+	position: fixed;
+	font-size: 25px;
+	font-family: Bahnschrift;
+	top: -8px;
+	left: 125px;
+	bottom: 100px;
+	color: #FFFFFF;
+	z-index: 1001;
+
+}
+
+#catering-text {
+
+	position: fixed;
+	font-size: 20px;
+	top: 25px;
+	left: 145px;
+	font-family: Bahnschrift;
+	color: #72C6E5;
+	z-index: 1002;
+
+
+}
+
+
+#home-header {
+
+	color: #FFFFFF;
+	position: fixed;
+	right: 630px;
+	top: 13px;
+	font-size: 16px;
+	font-family: Bahnschrift;
+	z-index: 1100
+}
+
+
+#about-header {
+
+	color: #FFFFFF;
+	position: fixed;
+	right: 555px;
+	top: 13px;
+	font-size: 16px;
+	font-family: Bahnschrift;
+	z-index: 1100
+}
+
+#menu-header {
+
+	color: #FFFFFF;
+	position: fixed;
+	right: 480px;
+	top: 13px;
+	font-size: 16px;
+	font-family: Bahnschrift;
+	z-index: 1100
+}
+
+
+#blog-header {
+
+	color: #FFFFFF;
+	position: fixed;
+	right: 405px;
+	top: 13px;
+	font-size: 16px;
+	font-family: Bahnschrift;
+	z-index: 1100
+}
+
+
+
+#contact-header {
+
+	color: #FFFFFF;
+	position: fixed;
+	right: 305px;
+	top: 13px;
+	font-size: 16px;
+	font-family: Bahnschrift;
+	z-index: 1100
+}
+
+#twitter-logo {
+
+	position: fixed;
+	height: 25px;
+	right: 210px;
+	top: 25px;
+	z-index: 1100
+}
+
+#sign-in {
+	z-index: 1400;
+	border-radius: 12px;
+	border: 0px solid;
+	background-color: #1E233F;
+	color: white;
+	font-family: Bahnschrift;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px 25px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	/*transition: transform 80ms ease-in;*/
+	position: fixed;
+	right: 50px;
+	top: 20px;
+}
+/*
+#sign-up {
+	z-index: 1400;
+	border-radius: 12px;
+	border: 0px solid;
+	background-color: #1E233F;
+	color: white;
+	font-family: Bahnschrift;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px 25px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	position: fixed;
+	right: 25px;
+	top: 20px;
+}
+*/
+
+#forty-dream-body-background-image {
+
+position: absolute;
+
+top: 75px;
+
+width: 1290;
+
+height: 535px;
+
+left: 0px;
+}
+
+#forty-dreams-text {
+
+	position: fixed;
+	font-size: 25px;
+	font-family: Bahnschrift;
+	top: -8px;
+	left: 125px;
+	bottom: 100px;
+	color: #FFFFFF;
+	z-index: 1001;
+
+}
+
+#catering-text {
+
+	position: fixed;
+	font-size: 20px;
+	top: 25px;
+	left: 145px;
+	font-family: Bahnschrift;
+	color: #72C6E5;
+	z-index: 1002;
+
+
+}
