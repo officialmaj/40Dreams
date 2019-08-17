@@ -74,7 +74,7 @@ html {
 
  	z-index: 999;
  	position: absolute;
- 	top: 865px;
+ 	top: 960px;
  	right: 15px;
  	height: 13px;
  	
@@ -85,7 +85,7 @@ html {
 
   	z-index: 999;
  	position: absolute;
- 	top: 895px;
+ 	top: 990px;
  	right: 15px;
  	height: 13px;
 
@@ -96,7 +96,7 @@ html {
 
  	z-index: 999;
  	position: absolute;
- 	top: 925px;
+ 	top: 1020px;
  	right: 14.5px;
  	height: 13px;
  	
@@ -318,7 +318,7 @@ z-index: 4000;
 	font-weight: bolder;
 	color: #525050;
 	position: relative;
-	top: 590px;
+	top: 575px;
 	left: 250px;
 }
 
@@ -327,7 +327,7 @@ z-index: 4000;
 	position: absolute;
 	width: 140px;
 	height: 65px;
-	top: 665px;
+	top: 635px;
 	left: 600px;
 }
 
@@ -336,7 +336,7 @@ z-index: 4000;
 	position: absolute;
 	width: 151px;
 	height: 71px;
-	top: 660px;
+	top: 630px;
 	left: 800px;
 }
 
