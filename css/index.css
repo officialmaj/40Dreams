@@ -281,6 +281,23 @@ z-index: 4000;
 	right: 50px;
 	top: 20px;
 }
+
+#sign-in:hover {
+	z-index: 1400;
+	border-radius: 12px;
+	border: 0px solid;
+	background-color: #1E233F;
+	color: white;
+	font-family: Bahnschrift;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px 25px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	position: fixed;
+	right: 50px;
+	top: 20px;
+}
 /*
 #sign-up {
 	z-index: 1400;
