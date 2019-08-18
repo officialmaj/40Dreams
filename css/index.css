@@ -286,7 +286,7 @@ z-index: 4000;
 	z-index: 1400;
 	border-radius: 12px;
 	border: 0px solid;
-	background-color: #1E233F;
+	background-color: #72C6E5;
 	color: white;
 	font-family: Bahnschrift;
 	font-size: 12px;
@@ -412,14 +412,13 @@ z-index: 4000;
 	left: 210px;
 	bottom: 100px;
 
-
 }
 
 
 #gourmet-entree {
 
 	position: absolute;
-	top: 895px;
+	top: 1025px;
 	left: -8px;
 	height: 250px;
 }
