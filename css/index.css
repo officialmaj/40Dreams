@@ -279,10 +279,29 @@ z-index: 4000;
 	text-transform: uppercase;
 	position: fixed;
 	right: 50px;
-	top: 20px;
+	top: 10px;
 }
 
 #sign-in:hover {
+	z-index: 1400;
+	border-radius: 12px;
+	border: 0px solid;
+	background-color: #72C6E5;
+	color: white;
+	font-family: Bahnschrift;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px 25px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	position: fixed;
+	right: 50px;
+	top: 10px;
+}
+
+#sign-in:visited {
+
+	color: none;
 	z-index: 1400;
 	border-radius: 12px;
 	border: 0px solid;
